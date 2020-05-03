@@ -24,7 +24,7 @@ s3://shiyuqianawsbucket/yelp_academic_dataset_user.json
 
 ### screenshot
 
-![upload1.jpg](img/upload1.png)
+![upload1.jpg](img/upload1.jpg)
 
 ![upload2.jpg](img/upload2.png)
 
