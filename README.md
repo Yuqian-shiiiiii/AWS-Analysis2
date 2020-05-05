@@ -2,7 +2,7 @@
 
 ### abstract
 
-I made data cleaning processing and analysis according to the course requirements and promotion, and used pyspark, pandas, matplotlib to improve the task in combination with steps
+I made data cleaning processing and analysis according to the course requirements and promotion, and used pyspark, pandas, matplotlib to improve the task in combination with steps. For part 3, I found that the YELP reviews tend to skew positive and customers tend to write good reviews. 
 
 
 ### S3 URL：
